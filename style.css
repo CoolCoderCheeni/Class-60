@@ -1,0 +1,24 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size:45px;
+}
+#app{
+    background-color: blueviolet;
+    width:100%;
+}
+#game{
+    background-color:cyan;
+    width:100%;
+}
+#chatbot{
+    background-color:darkmagenta;
+    width:100%;
+}
+.line{
+    background-color:black;
+    width:70px;
+    height:6px;
+    margin: 8px auto;
+}
